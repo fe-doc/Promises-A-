@@ -1,7 +1,7 @@
 # Promises/A+
 Promise/A+ 规范中文
 
-
+英文版：https://promisesaplus.com/
 
 *这是实施者为实施者提供的开源健全 可互操作的JavaScript Promise 规范。*
 
